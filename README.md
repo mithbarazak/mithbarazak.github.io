@@ -34,7 +34,7 @@ Welcome to my GitHub! I’m passionate about all things cybersecurity and thrive
 ## 🔗 Links
 
 - **[Resume](https://github.com/mithbarazak/mithbarazak.github.io/blob/a44d9ea7253f339cba64c00abe86f4341d48eaf7/Resume%20Darren%20Reed.pdf)**
-- **Cybersecurity Skills Portfolio** (work in progress)
+- **[Cybersecurity Skills Portfolio](skills-portfolio.md)** (work in progress)
 
 ## 🎬 Fun Fact
 
