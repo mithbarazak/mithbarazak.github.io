@@ -1,4 +1,4 @@
-# 👋 Hi, I’m mithbarazak
+# 👋 Hi, I’m Darren
 
 Welcome to my GitHub! I’m passionate about all things cybersecurity and thrive on solving complex challenges—whether it’s fortifying network defenses, analyzing threats, or building secure systems with code.
 
@@ -30,6 +30,11 @@ Welcome to my GitHub! I’m passionate about all things cybersecurity and thrive
 - **Problem Solving:** Analytical thinker with a knack for troubleshooting and process improvement.
 - **Collaboration:** Experience working in both independent and team environments.
 - **Adaptability:** Comfortable with fast-paced and evolving tech landscapes.
+
+## 🔗 Links
+
+- **[Resume](https://github.com/mithbarazak/mithbarazak.github.io/blob/a44d9ea7253f339cba64c00abe86f4341d48eaf7/Resume%20Darren%20Reed.pdf)**
+- **Cybersecurity Skills Portfolio** (work in progress)
 
 ## 🎬 Fun Fact
 
