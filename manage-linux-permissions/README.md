@@ -3,7 +3,7 @@
 ---
 
 - [Activity Overview and Scenario](overview-scenario.md)
-- [*File Permissions in Linux* Lab Exercise](FilepermissionsinLinux.html)
+- [*File Permissions in Linux* Lab Exercise](file-permissions-Linux.md)
 - Supporting Materials:
 	- [Current File Permissions](current-permissions.md)
 - [EXEMPLAR *File Permissions in Linux* Lab Exercise](exemplar.md)
