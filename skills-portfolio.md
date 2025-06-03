@@ -8,7 +8,7 @@ Part of the *Google Cybersecurity Professional* Certificate offered at [Coursera
 
 ### [Use Linux commands to manage file permissions](https://github.com/mithbarazak/mithbarazak.github.io/tree/main/manage-linux-permissions)
 
-### Apply filters to SQL queries
+### [Apply filters to SQL queries](https://github.com/mithbarazak/mithbarazak.github.io/tree/main/apply-SQL-filters)
 
 ### Analyze a vulnerable system for a small business
 
