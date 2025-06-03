@@ -18,7 +18,7 @@ The `log_in_attempts` table has the following columns:
 * `success`: The success of the login attempt; FALSE indicates a failed attempt
 
 In the MariaDB shell, these columns are returned as:  
-![Output from the terminal displaying each column name from left to right](images/tf-image1)
+![Output from the terminal displaying each column name from left to right](images/tf-image1.png)
 
 ## employees
 
@@ -31,7 +31,7 @@ The `employees` table has the following columns:
 * `office`: The office the employee is located in
 
 In the MariaDB shell, these columns are returned as:  
-![Output from the terminal displaying each column name from left to right](images/tf-image2)
+![Output from the terminal displaying each column name from left to right](images/tf-image2.png)
 
 ---
 
