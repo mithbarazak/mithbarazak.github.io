@@ -6,7 +6,7 @@ Part of the *Google Cybersecurity Professional* Certificate offered at [Coursera
 
 ### [Use NIST CSF to respond to a security incident](https://github.com/mithbarazak/mithbarazak.github.io/tree/main/use-NIST-CSF)
 
-### Use Linux commands to manage file permissions
+### [Use Linux commands to manage file permissions](https://github.com/mithbarazak/mithbarazak.github.io/tree/main/manage-linux-permissions)
 
 ### Apply filters to SQL queries
 
