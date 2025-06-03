@@ -61,3 +61,7 @@ Review the following charts for specific details about each type of control and 
 | Locks | Deterrent/Preventative | Bolster integrity by deterring and preventing unauthorized personnel, individuals from physically accessing assets |
 | Fire detection and prevention (fire alarm, sprinkler system, etc.) | Detective/Preventative | Detect fire in physical location and prevent damage to physical assets such as inventory, servers, etc. |
 
+---
+
+[Back](README.md)
+
