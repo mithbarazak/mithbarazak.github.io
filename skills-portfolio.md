@@ -12,7 +12,7 @@ Part of the *Google Cybersecurity Professional* Certificate offered at [Coursera
 
 ### [Analyze a vulnerable system for a small business](https://github.com/mithbarazak/mithbarazak.github.io/tree/main/analyze-vulnerable-system)
 
-### Document an incident with an incident handler's journal
+### [Document an incident with an incident handler's journal](https://github.com/mithbarazak/mithbarazak.github.io/tree/main/incident-handlers-journal)
 
 ### Update a file through a Python algorithm
 
