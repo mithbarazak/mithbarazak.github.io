@@ -10,7 +10,7 @@ Part of the *Google Cybersecurity Professional* Certificate offered at [Coursera
 
 ### [Apply filters to SQL queries](https://github.com/mithbarazak/mithbarazak.github.io/tree/main/apply-SQL-filters)
 
-### Analyze a vulnerable system for a small business
+### [Analyze a vulnerable system for a small business](https://github.com/mithbarazak/mithbarazak.github.io/tree/main/analyze-vulnerable-system)
 
 ### Document an incident with an incident handler's journal
 
