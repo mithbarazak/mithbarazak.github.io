@@ -20,7 +20,7 @@ The server in question hosts a database that is used on a daily basis by employe
 
 | Threat source | Threat event | Likelihood | Severity | Risk |
 | :---- | :---- | :---- | :---- | :---- |
-| <font color="blue"> *E.g. Competitor* | *Obtain sensitive information via exfiltration* | *1* | *3* | *3* </font> |
+| *E.g. Competitor* | *Obtain sensitive information via exfiltration* | *1* | *3* | *3* |
 | *Employee* | *Alter/Delete critical information (intentionally or accidentally)* | *1* | *3* | *3* |
 | *Competitor* | *Conduct Denial of Service (DoS) attacks.* | *2* | *3* | *6* |
 | *Hacker* | *Craft counterfeit certificates* | *2* | *3* | *6* |
